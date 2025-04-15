@@ -1,4 +1,4 @@
-# Python_Projects-
+# python_learning-projects
 # About This Repository
 
 This repository contains projects I finish as I learn the basics of coding in Python, through Rice University’s online Introduction to Scripting in Python Specialization taught by Scott RIxner and Joe Warren. I really enjoyed the first course, Python Programming Essentials,  and am looking forward to the next three: Python Data Representations, Python Data Analysis, and Python Data Visualization. I plan to include all the projects I complete for the specialization and may add smaller side projects if that makes sense. 
